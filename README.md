@@ -1,7 +1,9 @@
 # redux-toolkit
 
 Install Redux toolkit: npx create-react-app my-redux-app --template redux-typescript
+
 navigate to the project folder: cd my-redux-app
+
 npm start
 
 
